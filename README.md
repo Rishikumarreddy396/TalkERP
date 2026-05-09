@@ -27,14 +27,6 @@
 <!-- Replace with your actual screenshot -->
 ![Query Results](screenshots/query_results.png)
 
-### AI Summary & Insights
-<!-- Replace with your actual screenshot -->
-![AI Summary](screenshots/ai_summary.png)
-
-### Error Handling
-<!-- Replace with your actual screenshot -->
-![Error Handling](screenshots/error_handling.png)
-
 ---
 
 ## 🏗️ Architecture
